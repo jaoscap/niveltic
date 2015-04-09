@@ -35,6 +35,14 @@ permission on your app, which PhoneGap requires.
  <icon src="ico.png" />
 
  <icon src="ico.png" />
+ 
+   <platform name="android">
+              <icon src="ico.png" density="ldpi" />
+              <icon src="ico.png" density="mdpi" />
+              <icon src="ico.png" density="hdpi" />
+              <icon src="ico.png" density="xhdpi" />
+     </platform>
+
 	 
 
 
